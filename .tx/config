@@ -1,0 +1,9 @@
+[main]
+host = https://www.transifex.com
+
+[harbour-Base64.harbour-base64ts]
+file_filter = translations/harbour-base64-<lang>.ts
+source_file = translations/harbour-base64.ts
+source_lang = en
+type = QT
+
