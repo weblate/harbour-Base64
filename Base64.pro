@@ -17,4 +17,6 @@ OTHER_FILES += \
 
 CONFIG += sailfishapp_i18n
 
-TRANSLATIONS += translations/harbour-base64-it.ts
+TRANSLATIONS += \
+    translations/harbour-base64-it.ts \
+    translations/harbour-base64-sv.ts
