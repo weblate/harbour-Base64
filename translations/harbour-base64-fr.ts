@@ -23,7 +23,7 @@
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="75"/>
-        <source>Any text...</source>
+        <source>Any text…</source>
         <translation type="unfinished"/>
     </message>
     <message>

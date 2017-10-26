@@ -23,8 +23,8 @@
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="75"/>
-        <source>Any text...</source>
-        <translation>Било који текст...</translation>
+        <source>Any text…</source>
+        <translation>Било који текст…</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="83"/>

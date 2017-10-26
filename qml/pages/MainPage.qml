@@ -72,7 +72,7 @@ Page {
             TextArea {
                 id: data
                 width: parent.width
-                placeholderText: qsTr("Any text...")
+                placeholderText: qsTr("Any text…")
 
                 EnterKey.enabled: data.text.length > 0
                 EnterKey.onClicked: convert();
