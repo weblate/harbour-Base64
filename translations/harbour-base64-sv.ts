@@ -24,7 +24,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="75"/>
         <source>Any text…</source>
-        <translation>Ange text…</translation>
+        <translation>Valfri text…</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="83"/>
