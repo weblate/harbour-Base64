@@ -6,7 +6,9 @@ A base64 encoder/decoder application for [Sailfish OS](https://sailfishos.org).
 
 ## Translations
 
-Translations via [Transifex](https://www.transifex.com/ilpianista-harbour/harbour-Base64/dashboard/), thank you!
+[![Translation status](https://hosted.weblate.org/widgets/harbour-base64/-/svg-badge.svg)](https://hosted.weblate.org/engage/harbour-base64/?utm_source=widget)
+
+Translations via [Weblate](https://hosted.weblate.org/projects/harbour-base64/), thank you!
 
 ## Donate
 
