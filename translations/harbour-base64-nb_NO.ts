@@ -6,38 +6,38 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="41"/>
         <source>Copy to clipboard</source>
-        <translation></translation>
+        <translation>Kopier til utklippstavle</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="49"/>
         <source>Clear</source>
-        <translation></translation>
+        <translation>Tøm</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="56"/>
         <source>Base64 to Text</source>
-        <translation></translation>
+        <translation>Base64 til tekst</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="69"/>
         <source>Text to Base64</source>
-        <translation></translation>
+        <translation>Tekst til Base64</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="75"/>
         <source>Any text…</source>
-        <translation></translation>
+        <translation>Valgfri tekst…</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="83"/>
         <location filename="../qml/pages/MainPage.qml" line="125"/>
         <source>Encode</source>
-        <translation></translation>
+        <translation>Kod</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="127"/>
         <source>Decode</source>
-        <translation></translation>
+        <translation>Dekod</translation>
     </message>
 </context>
 </TS>
