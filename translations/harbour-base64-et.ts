@@ -6,38 +6,38 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="41"/>
         <source>Copy to clipboard</source>
-        <translation></translation>
+        <translation>Kopeeri lõikelauale</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="49"/>
         <source>Clear</source>
-        <translation></translation>
+        <translation>Puhasta</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="56"/>
         <source>Base64 to Text</source>
-        <translation></translation>
+        <translation>Base64 tekstiks</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="69"/>
         <source>Text to Base64</source>
-        <translation></translation>
+        <translation>Tekst Base64-ks</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="75"/>
         <source>Any text…</source>
-        <translation></translation>
+        <translation>Iga tekst…</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="83"/>
         <location filename="../qml/pages/MainPage.qml" line="125"/>
         <source>Encode</source>
-        <translation></translation>
+        <translation>Kodeeri</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="127"/>
         <source>Decode</source>
-        <translation></translation>
+        <translation>Dekodeeri</translation>
     </message>
 </context>
 </TS>
