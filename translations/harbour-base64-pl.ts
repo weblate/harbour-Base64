@@ -6,12 +6,12 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="41"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Skopiuj do schowka</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="49"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="56"/>
@@ -21,12 +21,12 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="69"/>
         <source>Text to Base64</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst do Base64</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="75"/>
         <source>Any text…</source>
-        <translation type="unfinished"></translation>
+        <translation>Jakiś tekst…</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="83"/>
@@ -37,7 +37,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="127"/>
         <source>Decode</source>
-        <translation type="unfinished"></translation>
+        <translation>Odkodować</translation>
     </message>
 </context>
 </TS>
