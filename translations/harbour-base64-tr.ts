@@ -6,38 +6,38 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="41"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Panoya kopyala</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="49"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Temizle</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="56"/>
         <source>Base64 to Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Base64&apos;ten Metne</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="69"/>
         <source>Text to Base64</source>
-        <translation type="unfinished"></translation>
+        <translation>Metinden Base64&apos;e</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="75"/>
         <source>Any text…</source>
-        <translation type="unfinished"></translation>
+        <translation>Herhangi bir metin…</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="83"/>
         <location filename="../qml/pages/MainPage.qml" line="125"/>
         <source>Encode</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodla</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="127"/>
         <source>Decode</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodunu çöz</translation>
     </message>
 </context>
 </TS>
