@@ -6,38 +6,38 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="41"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>复制到剪贴板</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="49"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>清除</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="56"/>
         <source>Base64 to Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Base64 到文字</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="69"/>
         <source>Text to Base64</source>
-        <translation type="unfinished"></translation>
+        <translation>文字到 Base64</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="75"/>
         <source>Any text…</source>
-        <translation type="unfinished"></translation>
+        <translation>任何文本…</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="83"/>
         <location filename="../qml/pages/MainPage.qml" line="125"/>
         <source>Encode</source>
-        <translation type="unfinished"></translation>
+        <translation>编码</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="127"/>
         <source>Decode</source>
-        <translation type="unfinished"></translation>
+        <translation>解码</translation>
     </message>
 </context>
 </TS>
