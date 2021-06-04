@@ -23,6 +23,12 @@ stages:
     - mb2 -t SailfishOS-$SFOS_VERSION-i486 build
     - popd
     - sudo cp -v ~/build/RPMS/* output
+    - rm -rf ~/build/*
+    - cp -r * ~/build
+    - pushd ~/build
+    - mb2 -t SailfishOS-$SFOS_VERSION-aarch64 build
+    - popd
+    - sudo cp -v ~/build/RPMS/* output
     - ls -la output
 
   only:
@@ -34,14 +40,14 @@ stages:
 build:
   extends: .build
   variables:
-    SFOS_VERSION: "3.3.0.14"
+    SFOS_VERSION: "3.4.0.24"
 
 publish:
     image: inetprocess/gitlab-release
     stage: publish
     only:
       - tags
-    dependencies: 
+    dependencies:
       - build
     script:
       - gitlab-release --message 'Release $CI_COMMIT_TAG' output/*
