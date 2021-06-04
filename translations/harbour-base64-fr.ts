@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS language="fr" version="2.1">
+<TS version="2.1" language="fr">
 <context>
     <name>MainPage</name>
     <message>
