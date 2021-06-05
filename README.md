@@ -2,7 +2,7 @@
 
 A base64 encoder/decoder application for [Sailfish OS](https://sailfishos.org).
 
-[![Build Status](https://git.sailfishos.org/ilpianista/harbour-Base64/badges/master/pipeline.svg)](https://git.sailfishos.org/ilpianista/harbour-Base64/pipelines)
+[![Build Status](https://gitlab.com/ilpianista/harbour-Base64/badges/master/pipeline.svg)](https://gitlab.com/ilpianista/harbour-Base64/pipelines)
 
 ## Translations
 
