@@ -30,6 +30,23 @@ BuildRequires:  desktop-file-utils
 %description
 Base64 encoder/decoder.
 
+%if "%{?vendor}" == "chum"
+PackageName: Base64
+Type: desktop-application
+DeveloperName: Andrea Scarpino
+Categories:
+ - Utility
+Custom:
+  Repo: https://gitlab.com/ilpianista/harbour-Base64
+Icon: https://gitlab.com/ilpianista/harbour-Base64/-/raw/master/icons/harbour-base64.svg
+Screenshots:
+ - https://gitlab.com/ilpianista/harbour-Base64/-/raw/master/screenshots/screenshot_1.png
+Url:
+  Homepage: https://gitlab.com/ilpianista/harbour-Base64
+  Bugtracker: https://gitlab.com/ilpianista/harbour-Base64/-/issues
+  Donation: https://paypal.me/andreascarpino
+%endif
+
 
 %prep
 %setup -q -n %{name}-%{version}

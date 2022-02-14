@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 X-Nemo-Application-Type=silica-qt5
-Categories=Audio;
+Categories=Utility;
 Icon=harbour-base64
 Exec=harbour-base64
 Name=Base64
