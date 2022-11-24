@@ -37,13 +37,13 @@ DeveloperName: Andrea Scarpino
 Categories:
  - Utility
 Custom:
-  Repo: https://gitlab.com/ilpianista/harbour-Base64
-Icon: https://gitlab.com/ilpianista/harbour-Base64/-/raw/master/icons/harbour-base64.svg
+  Repo: https://github.com/ilpianista/harbour-Base64
+Icon: https://github.com/ilpianista/harbour-Base64/-/raw/master/icons/harbour-base64.svg
 Screenshots:
- - https://gitlab.com/ilpianista/harbour-Base64/-/raw/master/screenshots/screenshot_1.png
+ - https://github.com/ilpianista/harbour-Base64/-/raw/master/screenshots/screenshot_1.png
 Url:
-  Homepage: https://gitlab.com/ilpianista/harbour-Base64
-  Bugtracker: https://gitlab.com/ilpianista/harbour-Base64/-/issues
+  Homepage: https://github.com/ilpianista/harbour-Base64
+  Bugtracker: https://github.com/ilpianista/harbour-Base64/-/issues
   Donation: https://paypal.me/andreascarpino
 %endif
 
