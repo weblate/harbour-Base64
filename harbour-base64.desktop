@@ -6,3 +6,8 @@ Icon=harbour-base64
 Exec=harbour-base64
 Name=Base64
 Comment=Base64 encoder/decoder
+
+[X-Sailjail]
+Permissions=
+OrganizationName=it.andreascarpino
+ApplicationName=harbour-base64
