@@ -38,13 +38,13 @@ Categories:
  - Utility
 Custom:
   Repo: https://github.com/ilpianista/harbour-Base64
-Icon: https://github.com/ilpianista/harbour-Base64/-/raw/master/icons/harbour-base64.svg
+Icon: https://raw.githubusercontent.com/ilpianista/harbour-Base64/master/icons/harbour-base64.svg
 Screenshots:
- - https://github.com/ilpianista/harbour-Base64/-/raw/master/screenshots/screenshot_1.png
+ - https://raw.githubusercontent.com/ilpianista/harbour-Base64/master/screenshots/screenshot_1.png
 Url:
   Homepage: https://github.com/ilpianista/harbour-Base64
   Bugtracker: https://github.com/ilpianista/harbour-Base64/-/issues
-  Donation: https://paypal.me/andreascarpino
+  Donation: https://liberapay.com/ilpianista
 %endif
 
 
