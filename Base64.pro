@@ -20,6 +20,7 @@ OTHER_FILES += \
 CONFIG += sailfishapp_i18n
 
 TRANSLATIONS += \
+    translations/harbour-base64-ar.ts \
     translations/harbour-base64-de.ts \
     translations/harbour-base64-eo.ts \
     translations/harbour-base64-et.ts \
@@ -29,8 +30,11 @@ TRANSLATIONS += \
     translations/harbour-base64-he.ts \
     translations/harbour-base64-hr.ts \
     translations/harbour-base64-it.ts \
+    translations/harbour-base64-lt.ts \
     translations/harbour-base64-nb_NO.ts \
     translations/harbour-base64-pl.ts \
+    translations/harbour-base64-ru.ts \
+    translations/harbour-base64-sk.ts \
     translations/harbour-base64-sr.ts \
     translations/harbour-base64-sv.ts \
     translations/harbour-base64-tr.ts \
