@@ -43,7 +43,7 @@ Screenshots:
  - https://raw.githubusercontent.com/ilpianista/harbour-Base64/master/screenshots/screenshot_1.png
 Url:
   Homepage: https://github.com/ilpianista/harbour-Base64
-  Bugtracker: https://github.com/ilpianista/harbour-Base64/-/issues
+  Bugtracker: https://github.com/ilpianista/harbour-Base64/issues
   Donation: https://liberapay.com/ilpianista
 %endif
 
