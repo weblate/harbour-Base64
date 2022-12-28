@@ -32,7 +32,7 @@ int main(int argc, char *argv[])
     QScopedPointer<QQuickView> view(SailfishApp::createView());
 
     QCoreApplication::setApplicationName(QStringLiteral("harbour-base64"));
-    QCoreApplication::setOrganizationDomain(QStringLiteral("andreascarpino.it"));
+    QCoreApplication::setOrganizationName(QStringLiteral("andreascarpino.it"));
 
     view->setSource(SailfishApp::pathTo("qml/Base64.qml"));
     view->show();
