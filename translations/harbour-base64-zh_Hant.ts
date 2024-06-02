@@ -6,7 +6,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="41"/>
         <source>Copy to clipboard</source>
-        <translation>複製到剪貼簿</translation>
+        <translation>複製至剪貼簿</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="49"/>
